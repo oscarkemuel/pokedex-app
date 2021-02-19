@@ -1,46 +1,34 @@
-# Getting Started with Create React App
+# Pokedex 1ª geração
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="./src/assets/images-repository/img1.png" alt="exemplo imagem" width="70%" >
 
-## Available Scripts
+> Pokedex surgiu com o teste de conhecimento de estágio do Valeu App. Na aplicação, é possível listar, pesquisar e filrar pokemons da primeira geração.
 
-In the project directory, you can run:
+## 🚀 Instalando Pokedex
 
-### `yarn start`
+Para instalar o Pokedex, siga estas etapas:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Abra o terminal do seu computador no local em que deseja colocar o projeto.
+2. Faça um clone desse repositório rodando: <br> `git clone https://github.com/oscarkemuel/pokedex-app.git`;
+3. Entre na pasta rodando: `cd pokedex-app`;
+4. Rode `yarn install` ou `npm install` para instalar as dependências do projeto;
+5. Rode `yarn start` ou `npm start` para iniciar o servidor de desenvolvimento.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## :computer: Dependências
 
-### `yarn test`
+* react
+* axios
+* react-dom
+* react-icons
+* react-scripts
+* styled-components
+* type-script
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📫 Contribuindo para Pokedex
+Para contribuir com Pokedex, siga estas etapas:
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
