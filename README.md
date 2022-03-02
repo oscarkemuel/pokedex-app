@@ -1,6 +1,6 @@
 # Pokedex 1ª geração
 
-<img src="./src/assets/images-repository/img1.png" alt="exemplo imagem" width="70%" >
+<img src="https://github.com/oscarkemuel/pokedex-app/blob/main/src/assets/images-repository/img1.png?raw=true" >
 
 > Pokedex surgiu com o teste de conhecimento de estágio do Valeu App. Na aplicação, é possível listar, pesquisar e filrar pokemons da primeira geração.
 
